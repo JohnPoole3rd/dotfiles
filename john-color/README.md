@@ -1,5 +1,5 @@
-##a terminal color theme I made ##
+A terminal color theme that I made.
 
-Xresource is for https://terminal.sexy to generate terminal themes
+Xresource is for https://terminal.sexy to generate terminal themes.
 
-Konsole folder contents go in ~/.local/share/konsole
+Konsole folder contents go in ~/.local/share/konsole.
