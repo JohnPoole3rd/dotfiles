@@ -1,4 +1,4 @@
-#a terminal color theme I made
+##a terminal color theme I made
 
 Xresource is for https://terminal.sexy to generate terminal themes
 
